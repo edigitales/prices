@@ -1,0 +1,35 @@
+[
+    {
+        "id": 1,
+        "name": {
+            "es": "iPhone 11 - 128GB",
+            "en": "iPhone 11 - 128GB"
+        },
+        "category": "Celulares",
+        "price": 198,
+        "oldPrice": 0,
+        "imageUrl": "https://m.media-amazon.com/images/I/61Y3GhJ3PRL._AC_SL1500_.jpg",
+        "description": {
+            "es": "Este es un equipo renovado, los equipos provienen de importaciones, los cuales tardan entre 10 y 20 dias en llegar segun tu ubicacion dentro de venezuela, la caja posee iPhone + cable USB.",
+            "en": "This is a revamped team, The equipment comes from imports, which take between 10 and 20 days to arrive depending on your location within Venezuela; the box contains an iPhone + USB cable."
+        },
+        "details": {
+            "es": {
+                "marca": "Apple",
+                "modelo": "11",
+                "color": "Negro",
+                "memoria": "128 GB",
+                "ram": "4 GB",
+                "sistema": "iOS 14"
+            },
+            "en": {
+                "brand": "Apple",
+                "model": "11",
+                "color": "Black",
+                "memory": "128 GB",
+                "ram": "4 GB",
+                "system": "iOS 14"
+            }
+        }
+    }
+]
