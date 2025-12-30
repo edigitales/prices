@@ -6,12 +6,12 @@
             "en": "iPhone 11 - 128GB"
         },
         "category": "Celulares",
-        "price": 198,
-        "oldPrice": 300,
+        "price": 228,
+        "oldPrice": 0,
         "imageUrl": "https://m.media-amazon.com/images/I/61Y3GhJ3PRL._AC_SL1500_.jpg",
         "description": {
-            "es": "Este es un equipo renovado, los equipos provienen de importaciones, los cuales tardan entre 10 y 20 dias en llegar segun tu ubicacion dentro de venezuela, la caja posee iPhone + cable USB.",
-            "en": "This is a revamped team, The equipment comes from imports, which take between 10 and 20 days to arrive depending on your location within Venezuela; the box contains an iPhone + USB cable."
+            "es": "Este es un equipo renovado, garantia en bateria superior al 80%, los equipos provienen de importaciones, los cuales tardan entre 10 y 20 dias en llegar segun tu ubicacion dentro de venezuela, la caja posee iPhone + cable USB.",
+            "en": ""
         },
         "details": {
             "es": {
@@ -28,6 +28,468 @@
                 "color": "Black",
                 "memory": "128 GB",
                 "ram": "4 GB",
+                "system": "iOS 14"
+            }
+        }
+    },
+    {
+        "id": 2,
+        "name": {
+            "es": "iPhone 11 - 128GB",
+            "en": "iPhone 11 - 128GB"
+        },
+        "category": "Celulares",
+        "price": 195.5,
+        "oldPrice": 0,
+        "imageUrl": "https://m.media-amazon.com/images/I/51ugi3mMBgL._AC_SL1000_.jpg",
+        "description": {
+            "es": "Este es un equipo renovado, los equipos provienen de importaciones, los cuales tardan entre 10 y 20 dias en llegar segun tu ubicacion dentro de venezuela, la caja posee iPhone + cable USB.",
+            "en": "This is a revamped team, The equipment comes from imports, which take between 10 and 20 days to arrive depending on your location within Venezuela; the box contains an iPhone + USB cable."
+        },
+        "details": {
+            "es": {
+                "marca": "Apple",
+                "modelo": "11",
+                "color": "Verde",
+                "memoria": "128 GB",
+                "ram": "4 GB",
+                "sistema": "iOS 14"
+            },
+            "en": {
+                "brand": "Apple",
+                "model": "11",
+                "color": "Green",
+                "memory": "128 GB",
+                "ram": "4 GB",
+                "system": "iOS 14"
+            }
+        }
+    },
+    {
+        "id": 3,
+        "name": {
+            "es": "iPhone 11 - 128GB",
+            "en": "iPhone 11 - 128GB"
+        },
+        "category": "Celulares",
+        "price": 208.72,
+        "oldPrice": 0,
+        "imageUrl": "https://m.media-amazon.com/images/I/51U5mDU1IzL._AC_SL1000_.jpg",
+        "description": {
+            "es": "Este es un equipo renovado, los equipos provienen de importaciones, los cuales tardan entre 10 y 20 dias en llegar segun tu ubicacion dentro de venezuela, la caja posee iPhone + cable USB.",
+            "en": "This is a revamped team, The equipment comes from imports, which take between 10 and 20 days to arrive depending on your location within Venezuela; the box contains an iPhone + USB cable."
+        },
+        "details": {
+            "es": {
+                "marca": "Apple",
+                "modelo": "11",
+                "color": "Morado",
+                "memoria": "128 GB",
+                "ram": "4 GB",
+                "sistema": "iOS 14"
+            },
+            "en": {
+                "brand": "Apple",
+                "model": "11",
+                "color": "Violet",
+                "memory": "128 GB",
+                "ram": "4 GB",
+                "system": "iOS 14"
+            }
+        }
+    },
+    {
+        "id": 4,
+        "name": {
+            "es": "iPhone 11 - 64GB",
+            "en": "iPhone 11 - 64GB"
+        },
+        "category": "Celulares",
+        "price": 179,
+        "oldPrice": 0,
+        "imageUrl": "https://m.media-amazon.com/images/I/61Y3GhJ3PRL._AC_SL1500_.jpg",
+        "description": {
+            "es": "Este es un equipo renovado, los equipos provienen de importaciones, los cuales tardan entre 10 y 20 dias en llegar segun tu ubicacion dentro de venezuela, la caja posee iPhone + cable USB.",
+            "en": "This is a revamped team, The equipment comes from imports, which take between 10 and 20 days to arrive depending on your location within Venezuela; the box contains an iPhone + USB cable."
+        },
+        "details": {
+            "es": {
+                "marca": "Apple",
+                "modelo": "11",
+                "color": "Negro",
+                "memoria": "64 GB",
+                "ram": "4 GB",
+                "sistema": "iOS 14"
+            },
+            "en": {
+                "brand": "Apple",
+                "model": "11",
+                "color": "Black",
+                "memory": "64 GB",
+                "ram": "4 GB",
+                "system": "iOS 14"
+            }
+        }
+    },
+    {
+        "id": 5,
+        "name": {
+            "es": "iPhone 11 - 64GB",
+            "en": "iPhone 11 - 64GB"
+        },
+        "category": "Celulares",
+        "price": 194,
+        "oldPrice": 0,
+        "imageUrl": "https://m.media-amazon.com/images/I/51U8WCTTmCL._AC_SL1112_.jpg",
+        "description": {
+            "es": "Este es un equipo renovado, los equipos provienen de importaciones, los cuales tardan entre 10 y 20 dias en llegar segun tu ubicacion dentro de venezuela, la caja posee iPhone + cable USB.",
+            "en": "This is a revamped team, The equipment comes from imports, which take between 10 and 20 days to arrive depending on your location within Venezuela; the box contains an iPhone + USB cable."
+        },
+        "details": {
+            "es": {
+                "marca": "Apple",
+                "modelo": "11",
+                "color": "Morado",
+                "memoria": "64 GB",
+                "ram": "4 GB",
+                "sistema": "iOS 14"
+            },
+            "en": {
+                "brand": "Apple",
+                "model": "11",
+                "color": "Violet",
+                "memory": "64 GB",
+                "ram": "4 GB",
+                "system": "iOS 14"
+            }
+        }
+    },
+    {
+        "id": 6,
+        "name": {
+            "es": "iPhone 11 - 64GB",
+            "en": "iPhone 11 - 64GB"
+        },
+        "category": "Celulares",
+        "price": 189,
+        "oldPrice": 0,
+        "imageUrl": "https://m.media-amazon.com/images/I/51l69jmcWcL._AC_SL1024_.jpg",
+        "description": {
+            "es": "Este es un equipo renovado, los equipos provienen de importaciones, los cuales tardan entre 10 y 20 dias en llegar segun tu ubicacion dentro de venezuela, la caja posee iPhone + cable USB.",
+            "en": "This is a revamped team, The equipment comes from imports, which take between 10 and 20 days to arrive depending on your location within Venezuela; the box contains an iPhone + USB cable."
+        },
+        "details": {
+            "es": {
+                "marca": "Apple",
+                "modelo": "11",
+                "color": "Verde",
+                "memoria": "64 GB",
+                "ram": "4 GB",
+                "sistema": "iOS 14"
+            },
+            "en": {
+                "brand": "Apple",
+                "model": "11",
+                "color": "Green",
+                "memory": "64 GB",
+                "ram": "4 GB",
+                "system": "iOS 14"
+            }
+        }
+    },
+    {
+        "id": 7,
+        "name": {
+            "es": "iPhone 11 - 256GB",
+            "en": "iPhone 11 - 256GB"
+        },
+        "category": "Celulares",
+        "price": 240,
+        "oldPrice": 0,
+        "imageUrl": "https://m.media-amazon.com/images/I/61Y3GhJ3PRL._AC_SL1500_.jpg",
+        "description": {
+            "es": "Este es un equipo renovado, los equipos provienen de importaciones, los cuales tardan entre 10 y 20 dias en llegar segun tu ubicacion dentro de venezuela, la caja posee iPhone + cable USB.",
+            "en": "This is a revamped team, The equipment comes from imports, which take between 10 and 20 days to arrive depending on your location within Venezuela; the box contains an iPhone + USB cable."
+        },
+        "details": {
+            "es": {
+                "marca": "Apple",
+                "modelo": "11",
+                "color": "Negro",
+                "memoria": "256 GB",
+                "ram": "4 GB",
+                "sistema": "iOS 14"
+            },
+            "en": {
+                "brand": "Apple",
+                "model": "11",
+                "color": "Black",
+                "memory": "256 GB",
+                "ram": "4 GB",
+                "system": "iOS 14"
+            }
+        }
+    },
+    {
+        "id": 8,
+        "name": {
+            "es": "iPhone 11 - 256GB",
+            "en": "iPhone 11 - 256GB"
+        },
+        "category": "Celulares",
+        "price": 261.95,
+        "oldPrice": 0,
+        "imageUrl": "https://m.media-amazon.com/images/I/51ugi3mMBgL._AC_SL1000_.jpg",
+        "description": {
+            "es": "Este es un equipo renovado, los equipos provienen de importaciones, los cuales tardan entre 10 y 20 dias en llegar segun tu ubicacion dentro de venezuela, la caja posee iPhone + cable USB.",
+            "en": "This is a revamped team, The equipment comes from imports, which take between 10 and 20 days to arrive depending on your location within Venezuela; the box contains an iPhone + USB cable."
+        },
+        "details": {
+            "es": {
+                "marca": "Apple",
+                "modelo": "11",
+                "color": "Verde",
+                "memoria": "256 GB",
+                "ram": "4 GB",
+                "sistema": "iOS 14"
+            },
+            "en": {
+                "brand": "Apple",
+                "model": "11",
+                "color": "Green",
+                "memory": "256 GB",
+                "ram": "4 GB",
+                "system": "iOS 14"
+            }
+        }
+    },
+    {
+        "id": 9,
+        "name": {
+            "es": "iPhone 11 - 256GB",
+            "en": "iPhone 11 - 256GB"
+        },
+        "category": "Celulares",
+        "price": 239,
+        "oldPrice": 0,
+        "imageUrl": "https://m.media-amazon.com/images/I/51U8WCTTmCL._AC_SL1112_.jpg",
+        "description": {
+            "es": "Este es un equipo renovado, los equipos provienen de importaciones, los cuales tardan entre 10 y 20 dias en llegar segun tu ubicacion dentro de venezuela, la caja posee iPhone + cable USB.",
+            "en": "This is a revamped team, The equipment comes from imports, which take between 10 and 20 days to arrive depending on your location within Venezuela; the box contains an iPhone + USB cable."
+        },
+        "details": {
+            "es": {
+                "marca": "Apple",
+                "modelo": "11",
+                "color": "Morado",
+                "memoria": "256 GB",
+                "ram": "4 GB",
+                "sistema": "iOS 14"
+            },
+            "en": {
+                "brand": "Apple",
+                "model": "11",
+                "color": "Violet",
+                "memory": "256 GB",
+                "ram": "4 GB",
+                "system": "iOS 14"
+            }
+        }
+    },
+    {
+        "id": 11,
+        "name": {
+            "es": "iPhone 12 pro - 128GB",
+            "en": "iPhone 12 pro - 128GB"
+        },
+        "category": "Celulares",
+        "price": 308.9,
+        "oldPrice": 0,
+        "imageUrl": "https://m.media-amazon.com/images/I/51n-83C8HYL._AC_SL1000_.jpg",
+        "description": {
+            "es": "Este es un equipo renovado, garantia en bateria superior al 80%, los equipos provienen de importaciones, los cuales tardan entre 10 y 20 dias en llegar segun tu ubicacion dentro de venezuela, la caja posee iPhone + cable USB.",
+            "en": ""
+        },
+        "details": {
+            "es": {
+                "marca": "Apple",
+                "modelo": "12 pro",
+                "color": "Azul",
+                "memoria": "128 GB",
+                "ram": "6 GB",
+                "sistema": "iOS 14"
+            },
+            "en": {
+                "brand": "Apple",
+                "model": "12 pro",
+                "color": "Blue",
+                "memory": "128 GB",
+                "ram": "6 GB",
+                "system": "iOS 14"
+            }
+        }
+    },
+    {
+        "id": 12,
+        "name": {
+            "es": "iPhone 12 pro - 128GB",
+            "en": "iPhone 12 pro - 128GB"
+        },
+        "category": "Celulares",
+        "price": 319,
+        "oldPrice": 0,
+        "imageUrl": "https://m.media-amazon.com/images/I/51-N-JDBKWL._AC_SL1000_.jpg",
+        "description": {
+            "es": "Este es un equipo renovado, los equipos provienen de importaciones, los cuales tardan entre 10 y 20 dias en llegar segun tu ubicacion dentro de venezuela, la caja posee iPhone + cable USB.",
+            "en": "This is a revamped team, The equipment comes from imports, which take between 10 and 20 days to arrive depending on your location within Venezuela; the box contains an iPhone + USB cable."
+        },
+        "details": {
+            "es": {
+                "marca": "Apple",
+                "modelo": "12 pro",
+                "color": "Oro",
+                "memoria": "128 GB",
+                "ram": "6 GB",
+                "sistema": "iOS 14"
+            },
+            "en": {
+                "brand": "Apple",
+                "model": "12 pro",
+                "color": "Gold",
+                "memory": "128 GB",
+                "ram": "6 GB",
+                "system": "iOS 14"
+            }
+        }
+    },
+    {
+        "id": 13,
+        "name": {
+            "es": "iPhone 12 pro - 512GB",
+            "en": "iPhone 12 pro - 512GB"
+        },
+        "category": "Celulares",
+        "price": 344.45,
+        "oldPrice": 0,
+        "imageUrl": "https://m.media-amazon.com/images/I/51-N-JDBKWL._AC_SL1000_.jpg",
+        "description": {
+            "es": "Este es un equipo renovado, los equipos provienen de importaciones, los cuales tardan entre 10 y 20 dias en llegar segun tu ubicacion dentro de venezuela, la caja posee iPhone + cable USB.",
+            "en": "This is a revamped team, The equipment comes from imports, which take between 10 and 20 days to arrive depending on your location within Venezuela; the box contains an iPhone + USB cable."
+        },
+        "details": {
+            "es": {
+                "marca": "Apple",
+                "modelo": "12 pro",
+                "color": "Oro",
+                "memoria": "512 GB",
+                "ram": "6 GB",
+                "sistema": "iOS 14"
+            },
+            "en": {
+                "brand": "Apple",
+                "model": "12 pro",
+                "color": "Gold",
+                "memory": "512 GB",
+                "ram": "6 GB",
+                "system": "iOS 14"
+            }
+        }
+    },
+    {
+        "id": 14,
+        "name": {
+            "es": "iPhone 12 pro - 512GB",
+            "en": "iPhone 12 pro - 512GB"
+        },
+        "category": "Celulares",
+        "price": 379,
+        "oldPrice": 0,
+        "imageUrl": "https://m.media-amazon.com/images/I/51n-83C8HYL._AC_SL1000_.jpg",
+        "description": {
+            "es": "Este es un equipo renovado, los equipos provienen de importaciones, los cuales tardan entre 10 y 20 dias en llegar segun tu ubicacion dentro de venezuela, la caja posee iPhone + cable USB.",
+            "en": "This is a revamped team, The equipment comes from imports, which take between 10 and 20 days to arrive depending on your location within Venezuela; the box contains an iPhone + USB cable."
+        },
+        "details": {
+            "es": {
+                "marca": "Apple",
+                "modelo": "12 pro",
+                "color": "Azul",
+                "memoria": "512 GB",
+                "ram": "6 GB",
+                "sistema": "iOS 14"
+            },
+            "en": {
+                "brand": "Apple",
+                "model": "12 pro",
+                "color": "Blue",
+                "memory": "512 GB",
+                "ram": "6 GB",
+                "system": "iOS 14"
+            }
+        }
+    },
+    {
+        "id": 15,
+        "name": {
+            "es": "iPhone 12 pro - 256GB",
+            "en": "iPhone 12 pro - 256GB"
+        },
+        "category": "Celulares",
+        "price": 307,
+        "oldPrice": 0,
+        "imageUrl": "https://m.media-amazon.com/images/I/51q3qjXRz2L._AC_SL1144_.jpg",
+        "description": {
+            "es": "Este es un equipo renovado, los equipos provienen de importaciones, los cuales tardan entre 10 y 20 dias en llegar segun tu ubicacion dentro de venezuela, la caja posee iPhone + cable USB.",
+            "en": "This is a revamped team, The equipment comes from imports, which take between 10 and 20 days to arrive depending on your location within Venezuela; the box contains an iPhone + USB cable."
+        },
+        "details": {
+            "es": {
+                "marca": "Apple",
+                "modelo": "12 pro",
+                "color": "Azul",
+                "memoria": "256 GB",
+                "ram": "6 GB",
+                "sistema": "iOS 14"
+            },
+            "en": {
+                "brand": "Apple",
+                "model": "12 pro",
+                "color": "Blue",
+                "memory": "256 GB",
+                "ram": "6 GB",
+                "system": "iOS 14"
+            }
+        }
+    },
+    {
+        "id": 16,
+        "name": {
+            "es": "iPhone 12 pro - 256GB",
+            "en": "iPhone 12 pro - 256GB"
+        },
+        "category": "Celulares",
+        "price": 316.8,
+        "oldPrice": 0,
+        "imageUrl": "https://m.media-amazon.com/images/I/61yYSJF5yeL._AC_SL1499_.jpg",
+        "description": {
+            "es": "Este es un equipo renovado, los equipos provienen de importaciones, los cuales tardan entre 10 y 20 dias en llegar segun tu ubicacion dentro de venezuela, la caja posee iPhone + cable USB.",
+            "en": "This is a revamped team, The equipment comes from imports, which take between 10 and 20 days to arrive depending on your location within Venezuela; the box contains an iPhone + USB cable."
+        },
+        "details": {
+            "es": {
+                "marca": "Apple",
+                "modelo": "12 pro",
+                "color": "Oro",
+                "memoria": "256 GB",
+                "ram": "6 GB",
+                "sistema": "iOS 14"
+            },
+            "en": {
+                "brand": "Apple",
+                "model": "12 pro",
+                "color": "Gold",
+                "memory": "256 GB",
+                "ram": "6 GB",
                 "system": "iOS 14"
             }
         }
